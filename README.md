@@ -1,2 +1,2 @@
 # Privacy-preserving
-It is incluse all my PhD files
+It includes  my Ph.D. files
